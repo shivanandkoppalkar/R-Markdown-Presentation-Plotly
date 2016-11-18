@@ -15,7 +15,7 @@ install.packages("plotly")
 Or install the latest development version (on GitHub) via devtools:
 
 ```r
-devtools::install_github("ropensci/plotly")
+devtools::install_github("github.com/shivanandkoppalkar/R-Markdown-Presentation-Plotly")
 ```
 
 ## Getting Started
